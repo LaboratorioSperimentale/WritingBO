@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>prova 1</title>
+				<respStmt>
+					<resp>editor</resp>
+					<name xml:id="LP">Lorenzo Petrucci</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>Not for distribution.</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Transcribed from the diaries of the late Dr. Roy Offire.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>
+				<hi rend="case(allcaps)">
+					<foreign lang="english">
+						fastlife
+					</foreign>
+					<lb/>
+					in
+					fast
+					car
+				</hi>
+				(30km/h
+				MAX)
+			</p>
+			<p>
+				Laura XXX
+			</p>
+			<p>
+				<graphics type=firma/>
+			</p>
+		</body>
+	</text>
+</TEI>
